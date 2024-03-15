@@ -7,4 +7,4 @@ BSc + MEng ECE @ [University of Calgary](https://www.ucalgary.ca);<br>
 
 - ⚙️ Languages: `.py`, `.js`, `.c`, `.cpp`, `.java`
 - 🧠 Deep Learning + NLP
-- 💬 Reach out to me via LinkedIn [/in/jashdubal/](https://www.linkedin.com/in/jashdubal/);<br>
+- 💬 Reach out to me via LinkedIn [/in/jashdubal](https://www.linkedin.com/in/jashdubal/);<br>
