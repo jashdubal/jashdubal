@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Sotware Engineer and AI Enthusiast
+#### I'm a Software Engineer and AI Enthusiast
 
 Software Engineer @ <a href="https://resin8.ai" target="_blank">resin8.ai</a>;<br>
 BSc + MEng ECE @ <a href="https://www.ucalgary.ca" target="_blank">University of Calgary</a>;<br>
